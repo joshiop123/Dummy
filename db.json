@@ -383,11 +383,8 @@
         "price": 23,
         "category": "Shirt",
         "img": "https://www.hoooyi.com/cdn/shop/products/1_d8dec055-2be1-46a1-ba21-7b2b4404d987_460x.jpg?v=1663911784"
-      }
-    ]
+      } 
     ,
-  
-    "Product2": [
       {
           "id": 49,
           "name": "Regal Classic Shirt",
